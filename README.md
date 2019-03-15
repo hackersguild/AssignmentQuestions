@@ -8,7 +8,7 @@ The questions for assignments
 1. Here is a sample html file with a submit button. Now modify the style of the paragraph text through javascript code.
 Sample HTML file :
 
-`<!DOCTYPE html>
+` <!DOCTYPE html>
 <html>
 <head>
 <meta charset=utf-8 />
@@ -21,7 +21,7 @@ Sample HTML file :
 onclick="js_style()">Style</button>
 </div>
 </body>
-</html>`
+</html> `
 
 2. Write a JavaScript function to get the values of First and Last name of the following form. 
 Sample HTML file :
