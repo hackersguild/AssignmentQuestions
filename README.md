@@ -8,7 +8,8 @@ The questions for assignments
 1. Here is a sample html file with a submit button. Now modify the style of the paragraph text through javascript code.
 Sample HTML file :
 
-` <!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset=utf-8 />
@@ -21,12 +22,14 @@ Sample HTML file :
 onclick="js_style()">Style</button>
 </div>
 </body>
-</html> `
+</html> 
+```
 
 2. Write a JavaScript function to get the values of First and Last name of the following form. 
 Sample HTML file :
 
-`<!DOCTYPE html> 
+```
+<!DOCTYPE html> 
 <html><head> 
 <meta charset=utf-8 /> 
 <title>Return first and last name from a form - w3resource</title> 
@@ -37,20 +40,23 @@ Last name: <input type="text" name="lname" value="Beckham"><br>
 <input type="submit" value="Submit"> 
 </form> 
 </body> 
-</html>` 
+</html>
+``` 
 
 3. Write a JavaScript program to set the background color of a paragraph. 
 
 4. Here is a sample html file with a submit button. Write a JavaScript function to get the value of the href, hreflang, rel, target, and type attributes of the specified link.
 
-`<!DOCTYPE html> 
+```
+<!DOCTYPE html> 
 <html><head> 
 <meta charset=utf-8 /> 
 </head> 
 <body> 
 <p><a id="w3r" type="text/html" hreflang="en-us" rel="nofollow" target="_self" href="https://www.w3resource.com /">w3resource</a></p> 
 <button onclick="getAttributes()">Click here to get  attributes value</button> 
-</body></html>`
+</body></html>
+```
 
 ## Arrays
 1 . Write a JavaScript function to get the first element of an array. Passing a parameter 'n' will return the first 'n' elements of the array.
@@ -95,11 +101,13 @@ Sample Output :
 
 7 . Write a JavaScript program to construct the following pattern, using a nested for loop.
 
+```
 *  
 * *  
 * * *  
 * * * *  
-* * * * *  
+* * * * *
+```
 
 12. Write a JavaScript program to sum the multiples of 3 and 5 under 1000. 
 
