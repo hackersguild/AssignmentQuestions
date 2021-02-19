@@ -1,5 +1,5 @@
 # Objects and Arrays 
-**Questions will inlclude : Loops and conditions**
+**Questions will include : Loops and conditions**
 The questions for assignments
 
 
